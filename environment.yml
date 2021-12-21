@@ -5,7 +5,7 @@ dependencies:
   - python
   - time
   - numpy
-  - json
+  # - json
   - pip
   - pip:
     # - numpy
