@@ -5,13 +5,14 @@ dependencies:
   - python
   - time
   - numpy
+  - json
   - pip
   - pip:
     # - numpy
     - pandas
     - matplotlib
     - requests
-    - json
+    # - json
     # - yfinance
     # - pytrends
     # - demjson
