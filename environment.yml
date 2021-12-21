@@ -10,13 +10,11 @@ dependencies:
     # - numpy
     - pandas
     - matplotlib
-    # - matplotlib.pyplot as plt
-    # - matplotlib.animation as animation
     - requests
-    - json
-    - yfinance
-    - pytrends
-    - demjson
+    # - json
+    # - yfinance
+    # - pytrends
+    # - demjson
   
   # # - os
   # - json
