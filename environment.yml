@@ -1,16 +1,23 @@
 name: Twitter_SearchBot_V3
+channels:
+  - conda-forge
 dependencies:
-    - requests
-    - os
-    - json
+  - python
+  - numpy as np
+  - pip
+  - pip:
     - pandas as pd
     - matplotlib.pyplot as plt
+    # - matplotlib.animation as animation
+    
+  # - requests
+  # # - os
+  # - json
+  # - pandas as pd
+  # - matplotlib.pyplot as plt
+  # - yfinance as yf
+  # - pytrends.requests.TrendReq as TrendReq
 
-    - yfinance as yf
-    - pytrends.requests.TrendReq as TrendReq
-
-    - demjson
-
-    - matplotlib.animation as animation
-    - time.sleep as sleep
-    - numpy as np
+  # - demjson
+  # # - matplotlib.animation as animation
+  # - time.sleep as sleep
