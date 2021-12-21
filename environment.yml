@@ -11,8 +11,8 @@ dependencies:
     - pandas
     - matplotlib
     - requests
-    # - json
-    # - yfinance
+    - json
+    - yfinance
     # - pytrends
     # - demjson
   
