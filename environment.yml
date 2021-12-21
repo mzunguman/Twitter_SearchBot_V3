@@ -13,7 +13,7 @@ dependencies:
     - matplotlib
     - requests
     # - json
-    # - yfinance
+    - yfinance
     # - pytrends
     # - demjson
   
