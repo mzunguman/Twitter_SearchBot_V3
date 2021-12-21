@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy as np
   - pip
   - pip:
+    - numpy as np
     - pandas as pd
     - matplotlib.pyplot as plt
     # - matplotlib.animation as animation
