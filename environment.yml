@@ -14,8 +14,8 @@ dependencies:
     - requests
     # - json
     - yfinance
-    # - pytrends
-    # - demjson
+    - pytrends
+    - demjson
   
   # # - os
   # - json
