@@ -1,0 +1,16 @@
+name: Twitter_SearchBot_V3
+dependencies:
+    - requests
+    - os
+    - json
+    - pandas as pd
+    - matplotlib.pyplot as plt
+
+    - yfinance as yf
+    - pytrends.requests.TrendReq as TrendReq
+
+    - demjson
+
+    - matplotlib.animation as animation
+    - time.sleep as sleep
+    - numpy as np
