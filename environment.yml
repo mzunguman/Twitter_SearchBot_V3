@@ -3,11 +3,13 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - numpy
   - pip
   - pip:
-    - numpy as np
-    - pandas as pd
-    - matplotlib.pyplot as plt
+    # - numpy
+    - pandas
+    - matplotlib
+    # - matplotlib.pyplot as plt
     # - matplotlib.animation as animation
     
   # - requests
